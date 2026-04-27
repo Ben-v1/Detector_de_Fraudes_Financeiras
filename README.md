@@ -30,3 +30,5 @@ Para superar a armadilha do desbalanceamento dos dados, onde focar apenas na Acu
 <br><br>
 A utilidade prática deste desenvolvimento no mundo corporativo é imensa. Ao ser implementado em um ambiente de produção, este modelo atua como uma poderosa camada de defesa em tempo real, capaz de processar e avaliar o risco de milhares de transações por segundo. Para o negócio, isso se traduz em uma diminuição significativa de perdas financeiras por golpes e na otimização do trabalho das equipes de análise de fraude, que passam a investigar apenas os alertas mais críticos e precisos. Em suma, o projeto entrega uma solução tecnológica robusta que protege o patrimônio da empresa e, simultaneamente, preserva a experiência de uso do cliente legítimo, fator vital para a competitividade no mercado financeiro moderno.
 </div>
+<br><br>
+Dados: https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset
